@@ -1,11 +1,11 @@
-Welcome to HacktoberFest 2020!
+Welcome to HacktoberFest 2021!
 
     Follow these steps to make your first pull request
 
     Fork this repository.
     Clone your forked repository to your machine.
 
-git clone https://github.com/<your_handle>/hackoctober.git
+git clone https://github.com/<your_handle>/hackoctoberfest2021.git
 
     Add your name in Contributors.md file.
     Write these command on your terminal-
